@@ -1,5 +1,5 @@
 # map-of-workouts
 
-https://wonderful-volhard-2507cd.netlify.app/
+https://map-of-workouts.netlify.app/
 
-build during js course
+Allow your localization - To let the site know where you are, choose Allow. Build during js course
